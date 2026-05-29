@@ -524,8 +524,8 @@ The `redis_connected` gauge was defined and exported but `set_redis_status()` wa
 ## Author
 
 **Aditya Gupta**
-Final Year B.Tech CS (AI), BIT Bhilai
-Graduating June 2026
+**B.Tech CS (AI), BIT Durg**
+
 
 ---
 
